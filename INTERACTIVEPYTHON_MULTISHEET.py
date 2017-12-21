@@ -2,7 +2,7 @@
 """
 Created on Sat Dec 16 19:48:20 2017
 
-@author: PHAM DANG MANH HONG LUAN
+@author: PHAM DANG MANH HONG LUAN g
 """
 
 import sys, os
